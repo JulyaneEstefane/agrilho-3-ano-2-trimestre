@@ -1,5 +1,4 @@
 # Tema do meu projeto
-# Tema do meu projeto
 
 Projeto desenvolvido para o concurso Agrinho.
 # �� Terra do Amanhã | Acessibilidade & Sustentabilidade
